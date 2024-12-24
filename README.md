@@ -4,8 +4,6 @@
 > *adverb · adjective*
 > - **to, toward, or from the side.**
 
-Ironworker, Snowboarder, Musician, Artist, Gamer, Learner of Things™
-
 - 🌱 Learning webDev & collaboration tools
 
 
