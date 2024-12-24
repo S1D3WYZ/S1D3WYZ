@@ -7,7 +7,6 @@
 Ironworker, Snowboarder, Musician, Artist, Gamer, Learner of Things™
 
 - 🌱 Learning webDev & collaboration tools
-- 🔭 Working on [s1d3wyz.com](https://s1d3wyz.com)
 
 ![bg-sides](https://s1d3wyz.com/images/bg-sides.png "S1D3WYZ - TehDerpyNinja™")
 
